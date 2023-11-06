@@ -1,0 +1,1 @@
+# mkdocs-material-instant-issue
